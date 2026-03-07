@@ -5,4 +5,8 @@
 - 基础语法
     - 常量、变量、运算符、结构体、数组、切片、map、条件语句、循环语句、指针、函数、接口、error、defer、异常、模块管理
 - 进阶
+    - goroutine
+    - channel
+    - sync
+    - select
     
